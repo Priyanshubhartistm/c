@@ -1,0 +1,1 @@
+// write a program to calculate perimeter of rectangle.take sides a & b from the user.
