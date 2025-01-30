@@ -1,15 +1,27 @@
-# include<stdio.h>
+// # include<stdio.h>
 
-int main() {
-    int a, b;
-    printf("enter a");
-    scanf("%d", &a);
+// int main() {
+//     int a, b;
+//     printf("enter a");
+//     scanf("%d", &a);
 
-    printf("enter b");
-    scanf("%d", &b);
+//     printf("enter b");
+//     scanf("%d", &b);
 
     
+//     printf("sum is : %d",a+b);
+//     return 0;
+
+// }
+#include<stdio.h>
+int main(){
+    int a, b;
+    printf("enter a");
+    scanf("%d",&a);
+
+    printf("enter b");
+    scanf("%d",&b);
+
     printf("sum is : %d",a+b);
     return 0;
-
 }
