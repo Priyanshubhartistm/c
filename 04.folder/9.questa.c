@@ -1,5 +1,6 @@
 // Practice Qs8
 //Print 1(true)or(false)for following statements:
+
 /*
 a) if it's sunday &(and) it's snowing->
 #include<stdio.h>
