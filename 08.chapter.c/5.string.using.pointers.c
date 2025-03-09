@@ -1,0 +1,2 @@
+// sting using pointers
+
