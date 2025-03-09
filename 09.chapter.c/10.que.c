@@ -61,6 +61,8 @@ int main() {
     printadd(adds[2]);
     printadd(adds[3]);
     printadd(adds[4]);
+    
+
     return 0;
 }
 void printadd(struct address add) {
